@@ -1,0 +1,17 @@
+{
+  "id": "nuzlocke",
+  "title": "Nuzlocke",
+  "author": "Stone696",
+  "summary": "Configurable Nuzlocke enforcement: permadeath, one catch per area, level caps, species lockes, run history and a randomizer.",
+  "version": "2.9.72",
+  "categories": ["GAMEPLAY", "BALANCE", "QOL"],
+  "tags": ["nuzlocke", "challenge", "permadeath", "randomizer", "level cap"],
+  "repo": "https://github.com/Stone696/nuzlocke",
+  "github": "Stone696/nuzlocke",
+  "api": 2,
+  "game_version": ">=0.2.24 <2.0.0",
+  "games": ["red", "blue", "yellow", "gold", "gen2"],
+  "profile": "content",
+  "affects_link": true,
+  "permissions": ["engine_internals"]
+}
