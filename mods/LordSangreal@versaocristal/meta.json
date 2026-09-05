@@ -16,8 +16,8 @@
     "crystal",
     "gen2"
   ],
-  "repo": "https://github.com/LordSangreal/versaocristal-ptbr",
-  "github": "LordSangreal/versaocristal-ptbr",
+  "repo": "https://github.com/LordSangreal/versaocristal",
+  "github": "LordSangreal/versaocristal",
   "automatic_version_check": true,
   "api": 2,
   "game_version": ">=0.0.0-0 <2.0.0",
